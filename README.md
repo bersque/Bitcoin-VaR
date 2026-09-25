@@ -1,2 +1,2 @@
 # Bitcoin-VaR
-Bitcoin VaR calcualtions using the GARCH procedure.
+Bitcoin Value at Risk calcualtions using different approaches: Historical, Parametric, GARCH and Monte Carlo.
